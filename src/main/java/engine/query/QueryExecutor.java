@@ -84,7 +84,7 @@ public class QueryExecutor {
      * Merge sort implementation — O(n log n).
      * This is what databases use for ORDER BY on large datasets.
      *
-     * TODO (your task - Week 2): Understand this and try implementing it yourself!
+     * (Week 2): Understand this and try implementing it yourself!
      */
     private List<Row> mergeSort(List<Row> rows, String column, boolean desc) {
         if (rows.size() <= 1) return rows;
@@ -147,7 +147,7 @@ public class QueryExecutor {
     /**
      * Performs a nested loop JOIN between two tables on matching column values.
      *
-     * TODO (your task - Week 4): Replace this with a hash join for better performance.
+     * (Week 4): Replace this with a hash join for better performance.
      *
      * @param left     left table rows
      * @param right    right table rows
