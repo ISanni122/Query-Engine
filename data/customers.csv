@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,city,age,member_since
+1,Emily,Smith,user1@email.com,Montreal,35,2020-05-16
+2,Fatima,Brown,user2@email.com,Montreal,24,2022-10-17
+3,Maya,Garcia,user3@email.com,Dallas,45,2019-03-07
+4,James,Garcia,user4@email.com,Chicago,32,2021-10-31
+5,Nadia,Smith,user5@email.com,San Diego,30,2023-01-06
+6,Maya,White,user6@email.com,Chicago,46,2022-04-21
+7,Chris,Smith,user7@email.com,Calgary,28,2022-11-30
+8,Lily,Anderson,user8@email.com,Houston,27,2020-03-16
+9,Daniel,Williams,user9@email.com,New York,42,2019-07-18
+10,Zoe,Thomas,user10@email.com,Dallas,34,2023-07-11
+11,Aisha,Harris,user11@email.com,San Diego,25,2021-02-14
+12,Carlos,Lee,user12@email.com,Houston,58,2022-06-20
+13,Zoe,Walker,user13@email.com,Chicago,63,2019-05-23
+14,Aisha,Wilson,user14@email.com,Calgary,36,2019-06-13
+15,Fatima,Williams,user15@email.com,Philadelphia,35,2021-07-17
+16,Zoe,Davis,user16@email.com,Phoenix,40,2020-03-05
+17,Chris,Garcia,user17@email.com,Dallas,58,2019-12-17
+18,Maya,Wilson,user18@email.com,Los Angeles,47,2021-02-16
+19,Chris,Lee,user19@email.com,Chicago,61,2020-10-26
+20,Aisha,Wilson,user20@email.com,Ottawa,20,2023-07-07
+21,Daniel,Jackson,user21@email.com,Houston,22,2020-03-08
+22,Jason,Anderson,user22@email.com,Chicago,59,2021-10-19
+23,Marcus,Harris,user23@email.com,Los Angeles,34,2019-10-13
+24,Fatima,Lee,user24@email.com,San Diego,34,2023-03-10
+25,Jason,White,user25@email.com,Mississauga,55,2021-03-28
+26,Zoe,Wilson,user26@email.com,Los Angeles,50,2021-10-07
+27,Carlos,Johnson,user27@email.com,Ottawa,25,2019-11-10
+28,Sarah,White,user28@email.com,Dallas,22,2021-02-27
+29,Marcus,Hall,user29@email.com,San Antonio,51,2020-05-29
+30,Maya,Smith,user30@email.com,Vancouver,64,2019-08-23
+31,Maya,Moore,user31@email.com,Calgary,59,2020-11-27
+32,Emily,Taylor,user32@email.com,Philadelphia,28,2021-07-18
+33,James,Moore,user33@email.com,San Diego,29,2021-11-05
+34,Emily,Taylor,user34@email.com,Ottawa,58,2021-11-05
+35,Nadia,Miller,user35@email.com,Los Angeles,41,2023-04-11
+36,Sarah,Lee,user36@email.com,Calgary,51,2019-01-02
+37,Nadia,Anderson,user37@email.com,San Antonio,19,2019-08-18
+38,Zoe,Taylor,user38@email.com,Chicago,21,2020-05-08
+39,Jason,Garcia,user39@email.com,New York,64,2021-09-22
+40,Carlos,Lee,user40@email.com,Calgary,26,2019-09-20
+41,Sofia,Lee,user41@email.com,Los Angeles,34,2021-12-16
+42,Nadia,White,user42@email.com,Chicago,52,2023-03-27
+43,David,Taylor,user43@email.com,Philadelphia,60,2022-08-23
+44,Zoe,Harris,user44@email.com,Mississauga,51,2021-07-13
+45,Emily,Wilson,user45@email.com,Chicago,22,2020-11-23
+46,James,Walker,user46@email.com,San Diego,32,2022-04-20
+47,Fatima,Smith,user47@email.com,New York,63,2022-07-16
+48,Aisha,Wilson,user48@email.com,New York,20,2023-10-27
+49,Daniel,Garcia,user49@email.com,San Diego,33,2020-07-24
+50,Sofia,Miller,user50@email.com,San Diego,26,2023-01-21
+51,Jason,Walker,user51@email.com,San Antonio,33,2023-05-26
+52,Sofia,White,user52@email.com,Chicago,24,2019-07-18
+53,Lily,Thomas,user53@email.com,Philadelphia,44,2021-08-14
+54,Aisha,Williams,user54@email.com,Toronto,43,2023-01-31
+55,Daniel,Williams,user55@email.com,Chicago,30,2020-01-25
+56,Maya,Harris,user56@email.com,Los Angeles,45,2020-01-11
+57,Chris,Harris,user57@email.com,Chicago,22,2021-06-26
+58,Maya,Williams,user58@email.com,Toronto,59,2022-01-12
+59,James,Garcia,user59@email.com,Mississauga,33,2019-12-07
+60,Lily,Martin,user60@email.com,San Antonio,31,2023-11-06
+61,Marcus,Johnson,user61@email.com,Los Angeles,42,2019-01-05
+62,Marcus,Moore,user62@email.com,Mississauga,47,2020-08-07
+63,Lily,Lee,user63@email.com,Vancouver,63,2021-09-23
+64,Mohammed,Miller,user64@email.com,Houston,31,2019-04-30
+65,Jason,Lee,user65@email.com,Toronto,65,2020-10-04
+66,Aisha,Johnson,user66@email.com,Dallas,48,2021-10-26
+67,Kevin,Davis,user67@email.com,Toronto,50,2019-06-14
+68,Sarah,Garcia,user68@email.com,Dallas,22,2022-10-14
+69,Fatima,Jackson,user69@email.com,New York,54,2020-05-19
+70,Jason,Hall,user70@email.com,Toronto,57,2019-06-17
+71,Lily,Walker,user71@email.com,Dallas,51,2020-10-09
+72,Chris,Miller,user72@email.com,Vancouver,63,2020-10-05
+73,Fatima,Moore,user73@email.com,Philadelphia,26,2022-10-07
+74,Priya,Harris,user74@email.com,Phoenix,22,2019-01-20
+75,Andre,Hall,user75@email.com,Dallas,24,2019-05-31
+76,Maya,Miller,user76@email.com,San Diego,34,2019-09-29
+77,Zoe,Garcia,user77@email.com,Mississauga,33,2021-01-26
+78,Priya,Davis,user78@email.com,San Antonio,52,2022-12-11
+79,Priya,Hall,user79@email.com,Calgary,59,2021-12-19
+80,James,Lee,user80@email.com,Houston,60,2019-08-01
+81,Mohammed,Moore,user81@email.com,New York,24,2023-03-01
+82,Maya,Brown,user82@email.com,Houston,36,2022-05-23
+83,David,Anderson,user83@email.com,Chicago,61,2022-07-22
+84,Chris,Thompson,user84@email.com,San Antonio,34,2023-09-29
+85,Aisha,Garcia,user85@email.com,Vancouver,45,2023-08-26
+86,Chris,Johnson,user86@email.com,Toronto,39,2023-04-29
+87,Mohammed,Moore,user87@email.com,Los Angeles,65,2021-06-23
+88,Maya,White,user88@email.com,San Diego,18,2019-08-18
+89,Carlos,Brown,user89@email.com,San Diego,20,2023-09-06
+90,Zoe,Walker,user90@email.com,San Diego,27,2021-05-30
+91,Mohammed,Johnson,user91@email.com,Houston,41,2023-06-19
+92,Aisha,Thomas,user92@email.com,Chicago,61,2020-05-26
+93,Emily,Thomas,user93@email.com,Calgary,53,2023-11-27
+94,Lily,Hall,user94@email.com,Montreal,27,2020-04-29
+95,Sarah,Davis,user95@email.com,Mississauga,44,2019-02-20
+96,Sarah,Anderson,user96@email.com,Calgary,44,2023-07-01
+97,Fatima,Moore,user97@email.com,Los Angeles,62,2019-08-10
+98,Marcus,Johnson,user98@email.com,Ottawa,48,2020-03-31
+99,David,Harris,user99@email.com,Phoenix,37,2023-08-08
+100,Fatima,Wilson,user100@email.com,Toronto,60,2020-01-31
